@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "favicon": "{{ shop.brand.square_logo }}",
@@ -42,13 +51,13 @@
     "tooltip_background_color": "{{ shop.brand.colors.primary[0].background }}",
     "type_base_font": "montserrat_n4",
     "use_custom_font_body": false,
-    "custom_body_font": "https:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/futura_medium_bt.ttf?v=1627391379@500",
+    "custom_body_font": "https://cdn.shopify.com/s/files/1/0561/2742/2636/files/futura_medium_bt.ttf?v=1627391379@500",
     "custom_body_weight": "500",
     "type_base_size": 15,
     "type_base_line_height": 29,
     "type_header_font": "fira_sans_n7",
     "use_custom_font_heading": false,
-    "custom_heading_font": "https:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/futura_medium_bt.ttf?v=1627391379@500",
+    "custom_heading_font": "https://cdn.shopify.com/s/files/1/0561/2742/2636/files/futura_medium_bt.ttf?v=1627391379@500",
     "custom_heading_weight": "400",
     "type_header_base_size": 34,
     "type_header_spacing": 0,
@@ -61,7 +70,7 @@
     "btn_weight": "500",
     "pcard_layout": "4",
     "pcard_alignment": "center",
-    "pcard_image_ratio": "1\/1",
+    "pcard_image_ratio": "1/1",
     "show_second_img": true,
     "show_swatch_option": false,
     "pcard_option_design": "image",
@@ -89,15 +98,15 @@
     "filter_color1": "",
     "share_facebook": true,
     "contact_email": "hello@lovval.com",
-    "social_twitter_link": "https:\/\/twitter.com\/home",
-    "social_facebook_link": "https:\/\/facebook.com\/",
-    "social_pinterest_link": "https:\/\/pinterest.com\/",
-    "social_instagram_link": "https:\/\/instagram.com\/",
+    "social_twitter_link": "https://twitter.com/home",
+    "social_facebook_link": "https://facebook.com/",
+    "social_pinterest_link": "https://pinterest.com/",
+    "social_instagram_link": "https://instagram.com/",
     "enable_cart_drawer": true,
     "cart_drawer_show_accelerated_button": false,
     "cart_notes_enable": false,
     "cart_estimate_shipping": false,
-    "cart_drawer_trust_badge": "shopify:\/\/shop_images\/Payment.webp",
+    "cart_drawer_trust_badge": "shopify://shop_images/Payment.webp",
     "search_by_tag": true,
     "popular_search_queries": "For Dad, For Mom, Daughter, Necklace",
     "search_unavailable_products": "HIDE",
@@ -106,13 +115,13 @@
     "show_agree_on_product": false,
     "show_agree_on_register": false,
     "show_cookie_consent": false,
-    "cookie_consent_learnmore_link": "https\/\/lovval.com\/privacy",
+    "cookie_consent_learnmore_link": "https//lovval.com/privacy",
     "gm_api": "AIzaSyD3yeSZBE_RTSx1FE3JtR0uUayaxJ_npRI",
     "instagram_token": "IGQVJWdXFOREJaSGZAOal9UUm1OVFlKOXNidGZA2XzliZAkhsSkpVejZAKYW4talFNV0ZAuUDJIemtjc0xSbVpucDltVWFSNGRwSTllVksySlJjaUMxamhqZA3lwUWhNSjJncjBYd21wQkNuZA19MYi1BdUZA3SAZDZD",
     "custom_css": ".sf-nav li a.sf__parent-item {\n  font-size: 16px;\n  letter-spacing: 0.8px;\n}\n[id$=\"16267456214eea9c5f\"] .prod__option div {\n  width: 100%;\n}\n[id$=\"16267456214eea9c5f\"]\n  .sf__custom-select.sf__select-bordered\n  .select-selected {\n  border-radius: 0;\n}\n.section__heading {\n  letter-spacing: 0.8px;\n}\n[id$=\"16202096349a3125a1\"] .section-my {\n  margin-bottom: 0;\n}\n.sf__pcard-content a {\n  text-transform: uppercase;\n  letter-spacing: 1px;\n  font-size: px;\n}\n[id$=\"1626742857eb865da7\"] .sf-hero__subtitle {\n  font-size: 16px;\n  letter-spacing: 1.5px;\n}\n[id$=\"1626742857eb865da7\"] .sf-hero__title {\n  letter-spacing: 6px;\n  font-family: \"Futura\";\n}\n.sf-header__desktop .sf-nav li a.sf__parent-item {\n  margin: 0 -0.1rem;\n}\n.content__subheading,\n.sf-hero__subtitle {\n  font-size: 16px;\n  letter-spacing: 1.5px;\n}\n[id$=\"1626745327180c6e26\"] .sf-hero__title {\n  letter-spacing: 4px;\n}\n.sf-footer .sf__footer-block-our_store .social-media-links {\n  margin: 40px -25px 0;\n}\n.sf-footer .sf__footer-block-our_store .social-media-links a {\n  padding: 0 15px;\n}\n.sf-footer .sf__footer-block-our_store .social-media-links svg path {\n  color: #000;\n}\n.sf__footer-form-newsletter .sf__newletter__form-input {\n  border: 1px solid #000;\n  border-radius: 0;\n}\n[id$=\"162020268361a6865e\"] .content__subheading {\n  font-size: 12px;\n  line-height: 16px;\n}\n#sf-custom__block--6dfc6c6b-e575-4b68-8e32-4214bcf8d7f7 .prod__title {\n  text-transform: uppercase;\n  font-size: px;\n  line-height: 50px;\n  letter-spacing: 1.5px;\n}\n#sf-custom__block--6dfc6c6b-e575-4b68-8e32-4214bcf8d7f7 .prod__vendor {\n  font-size: 12px;\n  text-transform: uppercase;\n  letter-spacing: 0.5px;\n  color: #000;\n}\n#sf-custom__block--6dfc6c6b-e575-4b68-8e32-4214bcf8d7f7 .prod__option-label {\n  display: none;\n}\n[id$=\"1626745327180c6e26\"] .sf-hero__title {\n  font-family: \"Futura\";\n}\n[id$=\"16267456214eea9c5f\"]\n  #sf-custom__block--6dfc6c6b-e575-4b68-8e32-4214bcf8d7f7 {\n  width: 40%;\n  max-width: 550px;\n}\n\n[id$=\"16267456214eea9c5f\"] .sf-custom__grid {\n  justify-content: center;\n}\n@media (min-width: 1024px) {\n  [id$=\"162020268361a6865e\"] .content__box h3 {\n    font-size: 30px;\n    line-height: 50px;\n    letter-spacing: 1.5px;\n  }\n  [id$=\"1626745327180c6e26\"] .sf-hero__title {\n    font-size: 70px;\n  }\n  [id$=\"1626742857eb865da7\"] .sf-hero__title {\n    margin-bottom: 40px;\n  }\n}\n@media(min-width: 1280px) {\n  .sf__collection-custom-content .section-my {\n    margin-top: 10px;\n    margin-bottom: 60px;\n  }\n}\n@media (min-width: 1536px) {\n  [id$=\"1626742857eb865da7\"] .sf-hero__title {\n    font-size: 70px;\n    line-height: 1.17;\n  }\n}\n@media (min-width: 1661px) {\n  [id$=\"1626742857eb865da7\"] .sf-hero__title {\n    font-size: 100px;\n    line-height: 1.17;\n  }\n}\n@media (max-width: 767px) {\n.sf__collection-custom-content .section-my {\nmargin-top: 0;\n}\n  #sf-custom__block--6dfc6c6b-e575-4b68-8e32-4214bcf8d7f7 .prod__title {\n    font-size: 24px;\n  }\n  [id$=\"16267456214eea9c5f\"]\n    #sf-custom__block--6dfc6c6b-e575-4b68-8e32-4214bcf8d7f7 {\n    width: 100%;\n  }\n  [id$=\"16267456214eea9c5f\"] .sf-custom__grid {\n    flex-direction: column-reverse;\n  }\n  [id$=\"1626742857eb865da7\"] .sf-hero__inner,\n  [id$=\"1626745327180c6e26\"] .sf-hero__innner {\n    justify-content: center;\n  }\n  [id$=\"1626742857eb865da7\"] .sf-hero__inner .sf-hero__content,\n  [id$=\"1626745327180c6e26\"] .sf-hero__inner .sf-hero__content {\n    text-align: center;\n  }\n  [id$=\"1626742857eb865da7\"]\n    .sf-hero__inner\n    .sf-hero__content\n    .sf-hero__subtitle,\n  [id$=\"1626745327180c6e26\"]\n    .sf-hero__inner\n    .sf-hero__content\n    .sf-hero__subtitle {\n    font-size: 14px;\n  }\n  [id$=\"1626742857eb865da7\"]\n    .sf-hero__inner\n    .sf-hero__content\n    .sf-hero__title,\n  [id$=\"1626745327180c6e26\"]\n    .sf-hero__inner\n    .sf-hero__content\n    .sf-hero__title {\n    font-size: 36px;\n    line-height: 42px;\n  }\n  [id$=\"162020268361a6865e\"] .content__box h3 {\n    font-size: 24px;\n    line-height: 42px;\n  }\n  [id$=\"1626742857eb865da7\"] .sf-hero__inner .sf-hero__content,\n  [id$=\"1626745327180c6e26\"] .sf-hero__inner .sf-hero__content,\n  [id$=\"1626742857eb865da7\"] .sf-hero__inner .sf-hero__content .sf-hero__btn,\n  [id$=\"1626745327180c6e26\"] .sf-hero__inner .sf-hero__content .sf-hero__btn,\n  [id$=\"1626742857eb865da7\"]\n    .sf-hero__inner\n    .sf-hero__content\n    .sf-hero__btn\n    a.sf__btn,\n  [id$=\"1626745327180c6e26\"]\n    .sf-hero__inner\n    .sf-hero__content\n    .sf-hero__btn\n    a.sf__btn,\n  [id$=\"162020268361a6865e\"] .content__box a.sf__btn,\n  [id$=\"1620205876f70255fb\"]\n    .sf__featured-collection-button\n    a.sf__btn,\n  [id$=\"1620209437cec2cd27\"]\n    .sf__featured-collection-button\n    a.sf__btn {\n    width: 100%;\n  }\n}\n[id$=\"16267456214eea9c5f\"] .product-options {\n  margin-bottom: 20px;\n}\n[id$=\"16267456214eea9c5f\"] .product-options select {\n  border-radius: 0;\n}",
     "review_app": "loox",
     "currency_code_enabled": true,
-    "checkout_logo_image": "shopify:\/\/shop_images\/Checkout_Banner-secure_f816e4fd-f4ca-44d8-82e2-eab78567b65e.png",
+    "checkout_logo_image": "shopify://shop_images/Checkout_Banner-secure_f816e4fd-f4ca-44d8-82e2-eab78567b65e.png",
     "checkout_logo_size": "large",
     "checkout_accent_color": "#68022c",
     "checkout_button_color": "#68022c",
@@ -208,15 +217,14 @@
           "logo_text": "LOVVAL'S",
           "logo": "{{ shop.brand.logo }}",
           "logo_mobile": "{{ shop.brand.logo }}",
-          "logo_transparent": "shopify:\/\/shop_images\/LCo_-_Default_logo_White_-_FFF.png",
           "logo_svg": "",
           "logo_mobile_svg": "",
           "logo_transparent_svg": "",
           "logo_max_width": 150,
           "sticky_logo_max_width": 160,
           "mobile_logo_max_width": 200,
-          "main_menu": "header-default-1-2",
-          "secondary_menu": "header-default-2-2",
+          "main_menu": "",
+          "secondary_menu": "",
           "mobile_menu": "main-menu",
           "uppercase_parent_level": true,
           "search": "show_icon",
@@ -239,7 +247,7 @@
               "title": "",
               "image": "{{ shop.brand.logo }}",
               "image_max": "200px",
-              "description": "<p><\/p>",
+              "description": "<p></p>",
               "width": "25%",
               "order_first": true,
               "open_default": false
@@ -248,8 +256,8 @@
           "ad3c3166-8ef1-441a-832a-e4c7b30d78ab": {
             "type": "menu",
             "settings": {
-              "menu": "footer-quicklinks",
-              "title": "<b>QUICK LINKS<\/b>",
+              "menu": "",
+              "title": "<b>QUICK LINKS</b>",
               "width": "33%",
               "order_first": false,
               "open_default": false
@@ -258,8 +266,8 @@
           "9191e286-5f7f-4a14-8e7a-3f66ca11cc88": {
             "type": "menu",
             "settings": {
-              "menu": "footer-intheknow",
-              "title": "<b>IN THE KNOW<\/b>",
+              "menu": "",
+              "title": "<b>IN THE KNOW</b>",
               "width": "33%",
               "order_first": false,
               "open_default": false
@@ -283,9 +291,9 @@
           "56c4c0dc-d90f-40b0-b663-7df51c0873bb": {
             "type": "custom_text",
             "settings": {
-              "title": "<b>OUR PASSION<\/b>",
+              "title": "<b>OUR PASSION</b>",
               "image_max": "200px",
-              "description": "<p>All our heartfelt creations are <strong>made and ship with Love from Florida in the U.S.A.<\/strong> <br\/><br\/>We strive to provide you with the most sweet present to \"wow\" your loved ones.<\/p>",
+              "description": "<p>All our heartfelt creations are <strong>made and ship with Love from Florida in the U.S.A.</strong> <br/><br/>We strive to provide you with the most sweet present to \"wow\" your loved ones.</p>",
               "width": "33%",
               "order_first": false,
               "open_default": true
@@ -318,7 +326,7 @@
           "show_announcement": false,
           "homepage_only": true,
           "show_close": true,
-          "message": "<b>Free Shipping World Wide For  $50+ Orders<\/b>",
+          "message": "<b>Free Shipping World Wide For  $50+ Orders</b>",
           "message_link": "",
           "show_divider": true
         }
@@ -345,7 +353,7 @@
           "modal_engraving_savings_percentage": 50,
           "modal_gold_savings_percentage": 50,
           "modal_red_color": "#d74d4d",
-          "addons_description_splitter": "<p>\/--so-description-full--\/<\/p>",
+          "addons_description_splitter": "<p>/--so-description-full--/</p>",
           "add_afterpay": false,
           "banner_top_max_width": 100,
           "page_bg": "#ffffff",
@@ -477,13 +485,13 @@
           "cart_timer_bg": "#284372",
           "cart_timer_color": "#ffffff",
           "tag_switch": "",
-          "addons_description_splitter": "<p>\/--so-description-full--\/<\/p>",
+          "addons_description_splitter": "<p>/--so-description-full--/</p>",
           "addon_tag_to_detect": "ADDON-PRODUCT",
           "show_oreo_box": true,
           "price_oreo_box": "1129",
           "copy_below_addon_image_bg": "#33c532",
           "copy_below_addon_image_color": "#ffffff",
-          "cart_addon_text": "<p>Limited Time Offer<\/p><p>Buy now and get FREE GIFT BOX with each item.<\/p>",
+          "cart_addon_text": "<p>Limited Time Offer</p><p>Buy now and get FREE GIFT BOX with each item.</p>",
           "show_cart_addon_ribbon": "in_title",
           "add_afterpay": false,
           "cart_grid_type": "newest",
@@ -520,7 +528,7 @@
           "loox_excluded_tags": "WARRANTY",
           "show_loox_count": true,
           "show_loox_from": 60,
-          "rating_text": "<p>Our customers say <strong>Excellent<\/strong> 4.4 out of 5<\/p>",
+          "rating_text": "<p>Our customers say <strong>Excellent</strong> 4.4 out of 5</p>",
           "custom_css": "main#MainContent {background-color: #fff;}"
         }
       },
@@ -533,7 +541,7 @@
           "modal_engraving_savings_percentage": 40,
           "modal_gold_savings_percentage": 40,
           "modal_red_color": "#d74d4d",
-          "addons_description_splitter": "<p>\/--so-description-full--\/<\/p>",
+          "addons_description_splitter": "<p>/--so-description-full--/</p>",
           "banner_top_max_width": 3000,
           "page_bg": "#ffffff",
           "image_thumbnails": "all",
@@ -651,32 +659,20 @@
     ],
     "blocks": {
       "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "18362670158283609394": {
-        "type": "shopify:\/\/apps\/omega-multi-twitter-pixels\/blocks\/app-embed-block\/babebd41-cc77-42a4-9431-59acdd6bc8c3",
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {
         }
       },
       "6868439170666289573": {
-        "type": "shopify:\/\/apps\/foxkit-sales-boost\/blocks\/foxkit-theme-helper\/13f41957-6b79-47c1-99a2-e52431f06fff",
+        "type": "shopify://apps/foxkit-sales-boost/blocks/foxkit-theme-helper/13f41957-6b79-47c1-99a2-e52431f06fff",
         "disabled": false,
         "settings": {
           "enable_ajax_atc": true
         }
       },
-      "8856629154746250496": {
-        "type": "shopify:\/\/apps\/foxify-page-builder\/blocks\/app-embed\/4e19e422-f550-4994-9ea0-84f23728223d",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "11532412952436166569": {
-        "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-inject\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+      "13739172200877325563": {
+        "type": "shopify://apps/weaverse-hydrogen/blocks/app-embed/c7f60bfa-c264-4b66-9443-17a891e89870",
         "disabled": false,
         "settings": {
         }
